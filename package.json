@@ -1,0 +1,22 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "Boostrap",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stella-pliatsiou/boostrap.git"
+  },
+  "author": "Stella Pliatsiou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stella-pliatsiou/boostrap/issues"
+  },
+  "homepage": "https://github.com/stella-pliatsiou/boostrap#readme"
+}
